@@ -47,5 +47,5 @@ The final chosen model is **ARIMA (3,1,0)** after evaluating BIC, significance l
 
 ## 👤 Author
 
-**Your Name**  
+**Laskhmi Chittem**
 Business Analytics | Data Science  
